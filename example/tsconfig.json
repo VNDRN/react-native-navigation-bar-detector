@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "react-native-navigation-bar-detector": ["../src/index"],
+      "react-native-navigation-bar-detector/*": ["../src/*"]
+    }
+  }
+}
