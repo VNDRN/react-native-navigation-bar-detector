@@ -443,7 +443,7 @@ PODS:
     - React-jsi (= 0.72.4)
     - React-logger (= 0.72.4)
     - React-perflogger (= 0.72.4)
-  - ReactNativeNavigationBarDetector (0.1.0):
+  - ReactNativeNavigationBarDetector (0.1.1):
     - ExpoModulesCore
   - SocketRocket (0.6.1)
   - Yoga (1.14.0)
