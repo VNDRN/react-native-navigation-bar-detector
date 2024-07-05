@@ -1,6 +1,6 @@
 {
   "name": "react-native-navigation-bar-detector",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A React Native module that detects which navigationbar is used on android. This way, it is possible to detect if gestures, two buttons or three buttons are used.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -28,11 +28,11 @@
   "author": "VNDRN <jef.vandooren@inthepocket.com> (https://github.com/VNDRN)",
   "license": "MIT",
   "homepage": "https://github.com/VNDRN/react-native-navigation-bar-detector#readme",
-  "dependencies": {},
   "devDependencies": {
-    "@types/react": "^18.0.25",
-    "expo-module-scripts": "^3.0.11",
-    "expo-modules-core": "^1.5.7"
+    "@types/react": "18.3.3",
+    "expo-module-scripts": "3.5.2",
+    "expo-modules-core": "1.12.18",
+    "react-native": "0.74.3"
   },
   "peerDependencies": {
     "expo": "*",
