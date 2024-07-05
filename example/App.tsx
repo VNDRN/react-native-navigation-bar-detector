@@ -1,11 +1,11 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View } from 'react-native';
 
-import * as ReactNativeNavigationbarDetector from "react-native-navigation-bar-detector";
+import * as ReactNativeNavigationBarDetector from 'react-native-navigation-bar-detector';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>{ReactNativeNavigationbarDetector.getNavigationBarType()}</Text>
+      <Text>{ReactNativeNavigationBarDetector.getNavigationBarType()}</Text>
     </View>
   );
 }
@@ -13,8 +13,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
   },
 });

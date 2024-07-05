@@ -11,19 +11,16 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "expo.modules.navigationbardetector.example"
+      "bundleIdentifier": "expo.modules.reactnativenavigationbardetector.example"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "expo.modules.navigationbardetector.example"
+      "package": "expo.modules.reactnativenavigationbardetector.example"
     },
     "web": {
       "favicon": "./assets/favicon.png"
